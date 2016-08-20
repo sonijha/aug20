@@ -1,0 +1,17 @@
+2016-08-16 10:57:13 INFO  Scenario_Cart:73 - Executing the Testcase There are no items in your basket. Order is 1.0
+2016-08-16 11:04:17 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-16 11:06:06 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-16 11:06:20 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2.0
+2016-08-16 19:05:18 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-16 19:05:20 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2.0
+2016-08-16 19:06:54 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1.0
+2016-08-16 19:07:00 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2.0
+2016-08-16 19:11:46 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
+2016-08-16 19:11:52 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2
+2016-08-16 19:23:31 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
+2016-08-16 19:23:45 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  2
+2016-08-16 19:25:27 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
+2016-08-16 19:27:18 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
+2016-08-16 19:29:48 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
+2016-08-16 19:31:07 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
+2016-08-16 19:32:03 INFO  Scenario_Search:20 - Executing the Testcase GB_01 Order is  1
